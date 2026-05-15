@@ -6,4 +6,4 @@ Figure. 4: files N_el_beta05, N_el11r2, N_el11r3, contain the data for the numbe
 
 Figure. 5: files N_el_beta05, N_el_beta06, N_el_beta07, contain the data for the number of created pairs corresponding to different values of the parameter beta 0.5, 0.6, 0.7 respectively.
 
-Figure. 6
+Figure. 6: files rho_el_p_10_beta_05_st1, rho_el_p_10_beta_06_st2, rho_el_p_10_beta_07_st3, contain the data for the momentum spectrum of created pairs corresponding to different values of the parameter beta 0.5, 0.6, 0.7 respectively.
